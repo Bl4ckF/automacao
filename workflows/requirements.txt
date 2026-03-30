@@ -1,0 +1,9 @@
+PyQt5
+pandas
+openpyxl
+python-docx
+matplotlib
+flask
+flask-cors
+requests
+aiohttp  # para o GitHubUpdater
